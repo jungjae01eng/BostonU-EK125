@@ -109,7 +109,6 @@ disp("reshape mat: ");
 disp(reshapeN);
 
 
-
 % Question 5
 disp(" ");
 disp("==========");
