@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%
 %    Jungjae Lee     %
 %    Worksheet 2     %
-% September 15, 2022 %
+% September 15, 2021 %
 %%%%%%%%%%%%%%%%%%%%%%
 
 clear;
@@ -107,6 +107,7 @@ disp("rot mat: ");
 disp(rotN);
 disp("reshape mat: ");
 disp(reshapeN);
+
 
 
 % Question 5
